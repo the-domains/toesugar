@@ -1,0 +1,14 @@
+layout_spectrum: 0.8716301578097045
+typography_spectrum: 0.5227095209993422
+color:
+  brandStrength: 0.6123548056930304
+  lightness: 0.8226706171408296
+  saturation: 0.7706951114814728
+  rhythmicContrast: 0.7835746724158525
+  brandColors:
+    - '#FF5335'
+    - '#B39C85'
+    - '#306E73'
+    - '#3B424D'
+    - '#1D181F'
+name: toesugar
